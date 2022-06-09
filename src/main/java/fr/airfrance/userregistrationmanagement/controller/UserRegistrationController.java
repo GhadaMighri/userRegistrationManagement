@@ -42,7 +42,7 @@ public class UserRegistrationController {
   }
 
   /**
-   *  This method allows us to display a user
+   * This method allows us to display a user
    *
    * @param email
    * @return user
